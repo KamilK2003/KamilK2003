@@ -3,10 +3,10 @@
 <h3 align="center">Junior Android Developer from Poland</h3>
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">
 
-<h3 align="left">I’m currently working on:</h3>
+<h3 align="left">I’m currently working at:</h3>
 <p>
-  <a href="https://play.google.com/store/search?q=hairviour&c=apps&hl=pl&gl=US" target="_blank">
-    Hairviour
+  <a href="https://www.aclas-polska.pl/" target="_blank">
+    ACLAS Polska
   </a>
 </p>
 
