@@ -9,6 +9,11 @@
     ACLAS Polska
   </a>
 </p>
+<p>
+  <a href="https://www.hairviour.com/" target="_blank">
+    ACLAS Polska
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
