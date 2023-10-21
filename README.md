@@ -5,12 +5,12 @@
 
 <h3 align="left">I’m currently working at:</h3>
 <p>
-  <a href="https://www.aclas-polska.pl/" target="_blank">
-    ACLAS Polska
+  <a href="https://www.hairviour.com/" target="_blank">
+    Hairviour
   </a>
 </p>
 <p>
-  <a href="https://www.hairviour.com/" target="_blank">
+  <a href="https://www.aclas-polska.pl/" target="_blank">
     ACLAS Polska
   </a>
 </p>
